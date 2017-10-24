@@ -14,9 +14,13 @@ Es necessari disposar de l'eina OpenCV (https://opencv.org/) per instal·lar:
 Si s’han instal•lat correctament les llibreries anteriors, executar:
 
 `cd webcam_capture`
+
 `mkdir build`
+
 `cd build`
+
 `cmake ..`
+
 `make`
 
 Per executar només cal fer: `./webcam_capture`
