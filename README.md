@@ -1,6 +1,6 @@
 # webcam_capture
 Captura imatges de la web cam, s'ha fer un fork de https://github.com/beta-robots/webcam_capture
-### Prerequisites
+### Requeriments inicials i dependències
 * CMake
 Es necessari disposar de l’eina CMake (https://cmake.org/)  per instal•lar: 
 `sudo apt-get install cmake`
@@ -9,7 +9,7 @@ Es necessari disposar de l’eina CMake (https://cmake.org/)  per instal•lar:
 Es necessari disposar de l'eina OpenCV (https://opencv.org/) per instal·lar:
 `sudo apt-get install libopencv-dev`
 
-### Installing
+### Compilar codi font:
 
 Si s’han instal•lat correctament les llibreries anteriors, executar:
 
