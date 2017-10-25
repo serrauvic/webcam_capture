@@ -1,5 +1,5 @@
 # webcam_capture
-Captura imatges de la web cam, s'ha fer un fork de https://github.com/beta-robots/webcam_capture
+Captura imatges de la web cam fork de https://github.com/beta-robots/webcam_capture
 ### Requeriments inicials i dependències
 * CMake
 Es necessari disposar de l’eina CMake (https://cmake.org/)  per instal•lar: 
