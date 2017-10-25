@@ -25,3 +25,10 @@ Si s’han instal•lat correctament les llibreries anteriors, executar:
 `make`
 
 Per executar només cal fer: `./webcam_capture`
+
+## Modes de treball
+
+De manera normal es mostrarà la captura de la webcam, opcións:
+ * Prement la tecla g es mostrarà la imatge en escala de grisos.
+ * Prement la tecla c es mostrarà la imarge en color.
+ * Prement la tecla q es finalitzarà la execució.
