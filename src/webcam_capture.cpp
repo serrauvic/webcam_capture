@@ -16,9 +16,8 @@ int main(int argc, char *argv[])
     cv::Mat image;                       // OpenCV image object
 	cv::Mat gray_image;
 	int cam_id;                          // camera id . Associated to device number in /dev/videoX
-	cv::Scalar_<unsigned char> px_value; // pixel value (4-element vector)
 	int user_key;                        // user pressed key to quit
-	bool color;
+	bool color;                          // image with color or gray (default with color).
 
 	// check user args
 	switch(argc)
